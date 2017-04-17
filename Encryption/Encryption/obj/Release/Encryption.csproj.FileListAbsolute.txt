@@ -1,0 +1,5 @@
+C:\Users\Lucas\Dropbox\PUC\Encryption\Encryption\bin\Release\Encryption.exe.config
+C:\Users\Lucas\Dropbox\PUC\Encryption\Encryption\bin\Release\Encryption.exe
+C:\Users\Lucas\Dropbox\PUC\Encryption\Encryption\bin\Release\Encryption.pdb
+C:\Users\Lucas\Dropbox\PUC\Encryption\Encryption\obj\Release\Encryption.exe
+C:\Users\Lucas\Dropbox\PUC\Encryption\Encryption\obj\Release\Encryption.pdb
