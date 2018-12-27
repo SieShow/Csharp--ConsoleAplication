@@ -1,0 +1,7 @@
+C:\Users\lucas.magalhaes\Desktop\NumeroExtenso\bin\Debug\NumeroExtenso.exe.config
+C:\Users\lucas.magalhaes\Desktop\NumeroExtenso\bin\Debug\NumeroExtenso.exe
+C:\Users\lucas.magalhaes\Desktop\NumeroExtenso\bin\Debug\NumeroExtenso.pdb
+C:\Users\lucas.magalhaes\Desktop\NumeroExtenso\obj\Debug\NumeroExtenso.csprojAssemblyReference.cache
+C:\Users\lucas.magalhaes\Desktop\NumeroExtenso\obj\Debug\NumeroExtenso.csproj.CoreCompileInputs.cache
+C:\Users\lucas.magalhaes\Desktop\NumeroExtenso\obj\Debug\NumeroExtenso.exe
+C:\Users\lucas.magalhaes\Desktop\NumeroExtenso\obj\Debug\NumeroExtenso.pdb
