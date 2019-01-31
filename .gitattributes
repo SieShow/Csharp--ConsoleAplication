@@ -16,3 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *.sql linguist-detectable=true
+*.sql linguist-language=sql
